@@ -10,4 +10,4 @@ A simple laravel 11 project personal notes manager application, inside which can
 7. Execute migrations and seed data - `php artisan migrate --seed`
 8. Start vite server - `npm run dev`
 9. Start Artisan server - `php artisan serve`
-# laravel11
+
